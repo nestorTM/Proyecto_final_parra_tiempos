@@ -1,0 +1,8 @@
+carné:2110590 velocidad:1788.3 frecuencia:58.265 voltaje:133.74 temperatura:48.51 tiempo op:31 19:39:37 -05
+carné:2110590 velocidad:1757 frecuencia:66.365 voltaje:122.55 temperatura:38.65 tiempo op:31 19:47:40 -05
+carné:2110590 velocidad:1749.8 frecuencia:56.12 voltaje:119.17 temperatura:38.76 tiempo op:31 19:47:41 -05
+carné:2110590 velocidad:1749.8 frecuencia:56.12 voltaje:119.17 temperatura:38.76 tiempo op:31 19:47:42 -05
+carné:2110590 velocidad:1771.2 frecuencia:64.495 voltaje:113.2 temperatura:38.76 tiempo op:31 19:47:43 -05
+carné:2110590 velocidad:1771.2 frecuencia:64.495 voltaje:113.2 temperatura:39.82 tiempo op:31 19:47:44 -05
+carné:2110590 velocidad:1820.3 frecuencia:54.555 voltaje:120.2 temperatura:39.82 tiempo op:31 19:47:45 -05
+carné:2110590 velocidad:1820.3 frecuencia:54.555 voltaje:120.2 temperatura:39.82 tiempo op:31 19:47:46 -05
