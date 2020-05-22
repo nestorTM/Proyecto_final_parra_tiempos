@@ -1,12 +1,11 @@
 # PROYECTO FINAL ALSE 2020-1 
 
-En este proyectó se implementó un sistema de monitoreo de un motor de corriente alterna usando lenguaje c, c++ y usando la herramienta qt creator para crear la interfáz de usuario, poniendo en práctica lo que se vió durante el semestre.
+En este proyectó se implementó un sistema de monitoreo de un motor AC usando EL lenguaje c++ y usando la herramienta qt creator para crear la interfáz grafica de usuario, poniendo en práctica lo que se vió durante el semestre.
 
 
 
-## Grupo 1 
+## Grupo 6 
 INTEGRANTES:
-Alfred Nicolás Velásquez Torres-
-Sergio David Rodríguez Rodríguez-
-Jonathan Steven Melo Rodríguez.
+Nestor Darney Tiempos Moreno-
+Julian David Parra Bello.
 
